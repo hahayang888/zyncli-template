@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bauhaus Signals"
+  short_description: "Generate Bauhaus Signals article visuals"
+  default_prompt: "Use $bauhaus-signals to plan and generate a coherent illustration set for this article."

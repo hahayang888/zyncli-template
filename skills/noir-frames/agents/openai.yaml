@@ -1,0 +1,4 @@
+interface:
+  display_name: "Noir Frames"
+  short_description: "Generate Noir Frames article visuals"
+  default_prompt: "Use $noir-frames to plan and generate a coherent illustration set for this article."

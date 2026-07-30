@@ -1,0 +1,4 @@
+interface:
+  display_name: "Clarity Diagrams"
+  short_description: "Generate Clarity Diagrams article visuals"
+  default_prompt: "Use $clarity-diagrams to plan and generate a coherent illustration set for this article."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Glass Systems"
+  short_description: "Generate Glass Systems article visuals"
+  default_prompt: "Use $glass-systems to plan and generate a coherent illustration set for this article."

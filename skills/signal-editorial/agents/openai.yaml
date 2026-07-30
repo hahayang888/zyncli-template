@@ -1,0 +1,4 @@
+interface:
+  display_name: "Signal Editorial"
+  short_description: "Generate Signal Editorial article visuals"
+  default_prompt: "Use $signal-editorial to plan and generate a coherent illustration set for this article."

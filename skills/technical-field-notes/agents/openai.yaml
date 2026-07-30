@@ -1,0 +1,4 @@
+interface:
+  display_name: "Technical Field Notes"
+  short_description: "Generate Technical Field Notes article visuals"
+  default_prompt: "Use $technical-field-notes to plan and generate a coherent illustration set for this article."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ink Metaphor"
+  short_description: "Generate Ink Metaphor article visuals"
+  default_prompt: "Use $ink-metaphor to plan and generate a coherent illustration set for this article."

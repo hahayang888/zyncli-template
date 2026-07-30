@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cozy Knowledge Workspace"
+  short_description: "Generate Cozy Knowledge Workspace article visuals"
+  default_prompt: "Use $cozy-knowledge-workspace to plan and generate a coherent illustration set for this article."

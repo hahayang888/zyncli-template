@@ -1,0 +1,4 @@
+interface:
+  display_name: "Soft Objects"
+  short_description: "Generate Soft Objects article visuals"
+  default_prompt: "Use $soft-objects to plan and generate a coherent illustration set for this article."

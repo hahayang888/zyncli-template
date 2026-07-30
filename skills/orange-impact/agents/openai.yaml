@@ -1,0 +1,4 @@
+interface:
+  display_name: "Orange Impact"
+  short_description: "Generate Orange Impact article visuals"
+  default_prompt: "Use $orange-impact to plan and generate a coherent illustration set for this article."

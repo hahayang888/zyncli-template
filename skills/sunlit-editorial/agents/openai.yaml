@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sunlit Editorial"
+  short_description: "Generate Sunlit Editorial article visuals"
+  default_prompt: "Use $sunlit-editorial to plan and generate a coherent illustration set for this article."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Strategic Convergence"
+  short_description: "Generate Strategic Convergence article visuals"
+  default_prompt: "Use $strategic-convergence to plan and generate a coherent illustration set for this article."

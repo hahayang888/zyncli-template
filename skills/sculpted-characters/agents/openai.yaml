@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sculpted Characters"
+  short_description: "Generate Sculpted Characters article visuals"
+  default_prompt: "Use $sculpted-characters to plan and generate a coherent illustration set for this article."

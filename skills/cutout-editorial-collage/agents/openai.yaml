@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cutout Editorial Collage"
+  short_description: "Generate Cutout Editorial Collage article visuals"
+  default_prompt: "Use $cutout-editorial-collage to plan and generate a coherent illustration set for this article."

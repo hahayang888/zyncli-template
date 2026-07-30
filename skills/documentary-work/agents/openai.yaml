@@ -1,0 +1,4 @@
+interface:
+  display_name: "Documentary Work"
+  short_description: "Generate Documentary Work article visuals"
+  default_prompt: "Use $documentary-work to plan and generate a coherent illustration set for this article."

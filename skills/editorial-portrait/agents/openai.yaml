@@ -1,0 +1,4 @@
+interface:
+  display_name: "Editorial Portrait"
+  short_description: "Generate Editorial Portrait article visuals"
+  default_prompt: "Use $editorial-portrait to plan and generate a coherent illustration set for this article."

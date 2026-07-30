@@ -1,0 +1,4 @@
+interface:
+  display_name: "Human Lines"
+  short_description: "Generate Human Lines article visuals"
+  default_prompt: "Use $human-lines to plan and generate a coherent illustration set for this article."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Soft Systems 3D"
+  short_description: "Generate Soft Systems 3D article visuals"
+  default_prompt: "Use $soft-systems-3d to plan and generate a coherent illustration set for this article."

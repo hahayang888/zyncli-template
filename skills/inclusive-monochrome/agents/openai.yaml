@@ -1,0 +1,4 @@
+interface:
+  display_name: "Inclusive Monochrome"
+  short_description: "Generate Inclusive Monochrome article visuals"
+  default_prompt: "Use $inclusive-monochrome to plan and generate a coherent illustration set for this article."

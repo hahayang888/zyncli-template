@@ -1,0 +1,4 @@
+interface:
+  display_name: "Media Vortex"
+  short_description: "Generate Media Vortex article visuals"
+  default_prompt: "Use $media-vortex to plan and generate a coherent illustration set for this article."

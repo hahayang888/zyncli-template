@@ -1,0 +1,4 @@
+interface:
+  display_name: "Signal Matrix"
+  short_description: "Generate Signal Matrix article visuals"
+  default_prompt: "Use $signal-matrix to plan and generate a coherent illustration set for this article."

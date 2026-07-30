@@ -1,0 +1,4 @@
+interface:
+  display_name: "Evidence Atlas"
+  short_description: "Generate Evidence Atlas article visuals"
+  default_prompt: "Use $evidence-atlas to plan and generate a coherent illustration set for this article."

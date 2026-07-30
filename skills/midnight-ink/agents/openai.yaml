@@ -1,0 +1,4 @@
+interface:
+  display_name: "Midnight Ink"
+  short_description: "Generate Midnight Ink article visuals"
+  default_prompt: "Use $midnight-ink to plan and generate a coherent illustration set for this article."

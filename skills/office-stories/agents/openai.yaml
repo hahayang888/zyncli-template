@@ -1,0 +1,4 @@
+interface:
+  display_name: "Office Stories"
+  short_description: "Generate Office Stories article visuals"
+  default_prompt: "Use $office-stories to plan and generate a coherent illustration set for this article."
