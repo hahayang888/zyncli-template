@@ -1,0 +1,4 @@
+interface:
+  display_name: "Charcoal Reportage"
+  short_description: "Generate Charcoal Reportage article visuals"
+  default_prompt: "Use $charcoal-reportage to plan and generate a coherent illustration set for this article."

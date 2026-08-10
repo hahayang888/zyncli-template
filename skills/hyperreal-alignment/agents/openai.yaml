@@ -1,0 +1,4 @@
+interface:
+  display_name: "Hyperreal Alignment"
+  short_description: "Generate Hyperreal Alignment article visuals"
+  default_prompt: "Use $hyperreal-alignment to plan and generate a coherent illustration set for this article."

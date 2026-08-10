@@ -1,0 +1,4 @@
+interface:
+  display_name: "Riso Argument"
+  short_description: "Generate Riso Argument article visuals"
+  default_prompt: "Use $riso-argument to plan and generate a coherent illustration set for this article."

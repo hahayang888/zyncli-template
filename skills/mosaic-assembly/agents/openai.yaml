@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mosaic Assembly"
+  short_description: "Generate Mosaic Assembly article visuals"
+  default_prompt: "Use $mosaic-assembly to plan and generate a coherent illustration set for this article."

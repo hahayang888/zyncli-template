@@ -1,0 +1,4 @@
+interface:
+  display_name: "Axonometric Commons"
+  short_description: "Generate Axonometric Commons article visuals"
+  default_prompt: "Use $axonometric-commons to plan and generate a coherent illustration set for this article."

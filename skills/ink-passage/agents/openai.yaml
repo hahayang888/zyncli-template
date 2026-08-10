@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ink Passage"
+  short_description: "Generate Ink Passage article visuals"
+  default_prompt: "Use $ink-passage to plan and generate a coherent illustration set for this article."

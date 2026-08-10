@@ -1,0 +1,4 @@
+interface:
+  display_name: "Precision Circuit"
+  short_description: "Generate Precision Circuit article visuals"
+  default_prompt: "Use $precision-circuit to plan and generate a coherent illustration set for this article."

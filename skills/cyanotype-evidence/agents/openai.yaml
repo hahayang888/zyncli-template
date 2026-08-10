@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cyanotype Evidence"
+  short_description: "Generate Cyanotype Evidence article visuals"
+  default_prompt: "Use $cyanotype-evidence to plan and generate a coherent illustration set for this article."

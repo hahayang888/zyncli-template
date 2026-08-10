@@ -1,0 +1,4 @@
+interface:
+  display_name: "Chrome Currents"
+  short_description: "Generate Chrome Currents article visuals"
+  default_prompt: "Use $chrome-currents to plan and generate a coherent illustration set for this article."

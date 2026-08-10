@@ -1,0 +1,4 @@
+interface:
+  display_name: "Marbled Forces"
+  short_description: "Generate Marbled Forces article visuals"
+  default_prompt: "Use $marbled-forces to plan and generate a coherent illustration set for this article."

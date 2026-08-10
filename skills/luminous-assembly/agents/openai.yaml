@@ -1,0 +1,4 @@
+interface:
+  display_name: "Luminous Assembly"
+  short_description: "Generate Luminous Assembly article visuals"
+  default_prompt: "Use $luminous-assembly to plan and generate a coherent illustration set for this article."

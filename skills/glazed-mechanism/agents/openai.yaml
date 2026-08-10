@@ -1,0 +1,4 @@
+interface:
+  display_name: "Glazed Mechanism"
+  short_description: "Generate Glazed Mechanism article visuals"
+  default_prompt: "Use $glazed-mechanism to plan and generate a coherent illustration set for this article."

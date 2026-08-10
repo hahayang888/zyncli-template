@@ -1,0 +1,4 @@
+interface:
+  display_name: "Gouache Field Notes"
+  short_description: "Generate Gouache Field Notes article visuals"
+  default_prompt: "Use $gouache-field-notes to plan and generate a coherent illustration set for this article."

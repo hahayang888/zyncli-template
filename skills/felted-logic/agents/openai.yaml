@@ -1,0 +1,4 @@
+interface:
+  display_name: "Felted Logic"
+  short_description: "Generate Felted Logic article visuals"
+  default_prompt: "Use $felted-logic to plan and generate a coherent illustration set for this article."

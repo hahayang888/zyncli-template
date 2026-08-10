@@ -1,0 +1,4 @@
+interface:
+  display_name: "Shadow Stage"
+  short_description: "Generate Shadow Stage article visuals"
+  default_prompt: "Use $shadow-stage to plan and generate a coherent illustration set for this article."

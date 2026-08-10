@@ -1,0 +1,4 @@
+interface:
+  display_name: "Carved Thesis"
+  short_description: "Generate Carved Thesis article visuals"
+  default_prompt: "Use $carved-thesis to plan and generate a coherent illustration set for this article."

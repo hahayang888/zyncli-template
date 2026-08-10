@@ -7,7 +7,7 @@ Open-source visual Skills for turning articles, blogs, newsletters, essays, and 
 
 [Zyncli](https://zyncli.com) is a visual Skill platform for article illustration. Instead of asking an image model to make a series of disconnected pictures, each Zyncli template gives an AI agent a reusable visual system: how to understand the writing, which ideas deserve an image, how to compose each scene, and how to keep the complete set visually consistent.
 
-This repository contains the open-source versions of the templates available through the [Zyncli template library](https://zyncli.com/templates). Every template is packaged as an independently installable Agent Skill.
+This repository contains 45 open-source templates from the [Zyncli template library](https://zyncli.com/templates). Every template is packaged as an independently installable Agent Skill.
 
 ## What a visual Skill does
 
@@ -37,6 +37,22 @@ The current library includes editorial illustration, documentary photography, 3D
 | Tactile 3D systems for approachable product and workflow stories. | Layered paper collage for culture, media, strategy, and technology essays. |
 
 The images above are representative outputs generated from the corresponding Skill directions. Each Skill includes three example images for visual calibration.
+
+## New original material collection
+
+The latest release adds 20 original directions designed to be visibly different at the level that matters: material, metaphor vocabulary, spatial grammar, and editorial purpose. The collection spans engineered chrome, gouache reportage, felt craft, painterly allegory, cyanotype evidence, precision circuits, physical realism, ink wash, paper architecture, risograph, relief print, mosaic, pastel, ceramic mechanisms, cutaway systems, stained glass, charcoal reportage, axonometric workplaces, shadow theatre, and marbled abstraction.
+
+| Chrome Currents | Gouache Field Notes |
+| --- | --- |
+| [![Chrome Currents example](skills/chrome-currents/assets/examples/01.webp)](skills/chrome-currents) | [![Gouache Field Notes example](skills/gouache-field-notes/assets/examples/01.webp)](skills/gouache-field-notes) |
+| Engineered metal and cobalt ribbons for systems, infrastructure, and strategic forces. | Observational painted scenes for workplace, community, and field-report stories. |
+
+| Process Cutaway | Shadow Stage |
+| --- | --- |
+| [![Process Cutaway example](skills/process-cutaway/assets/examples/01.webp)](skills/process-cutaway) | [![Shadow Stage example](skills/shadow-stage/assets/examples/01.webp)](skills/shadow-stage) |
+| Sectioned machines that expose hidden workflows, dependencies, and failure points. | Cinematic paper theatre for moral tension, consequences, and narrative essays. |
+
+Browse all 45 directions in the [complete Skill catalog](CATALOG.md).
 
 ## What is inside each Skill
 

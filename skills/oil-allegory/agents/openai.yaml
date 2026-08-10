@@ -1,0 +1,4 @@
+interface:
+  display_name: "Oil Allegory"
+  short_description: "Generate Oil Allegory article visuals"
+  default_prompt: "Use $oil-allegory to plan and generate a coherent illustration set for this article."

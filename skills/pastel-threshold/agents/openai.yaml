@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pastel Threshold"
+  short_description: "Generate Pastel Threshold article visuals"
+  default_prompt: "Use $pastel-threshold to plan and generate a coherent illustration set for this article."

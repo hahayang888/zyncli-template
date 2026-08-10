@@ -1,5 +1,7 @@
 # Skill catalog
 
+The library currently contains 45 installable visual Skills. Every entry links to its complete workflow, style guide, visual calibration examples, and matching Zyncli template page.
+
 | Skill | Category | Medium | Best for | Zyncli template |
 | --- | --- | --- | --- | --- |
 | [Signal Editorial](skills/signal-editorial) | Editorial | Digital collage | Business analysis, Trends, Opinion columns | [Signal Editorial template](https://zyncli.com/templates/signal-editorial) |
@@ -27,3 +29,23 @@
 | [Glass Systems](skills/glass-systems) | 3D | Glass & metal 3D | AI systems, Infrastructure, Product strategy | [Glass Systems template](https://zyncli.com/templates/glass-systems) |
 | [Strategic Convergence](skills/strategic-convergence) | Infographic | Editorial data graphic | Strategy, Transformation, Career and leadership | [Strategic Convergence template](https://zyncli.com/templates/strategic-convergence) |
 | [Evidence Atlas](skills/evidence-atlas) | Infographic | Information design | Research reports, Comparisons, Educational explainers | [Evidence Atlas template](https://zyncli.com/templates/evidence-atlas) |
+| [Chrome Currents](skills/chrome-currents) | 3D | Metallic 3D | Technology strategy, Transformation, Systems thinking | [Chrome Currents template](https://zyncli.com/templates/chrome-currents) |
+| [Gouache Field Notes](skills/gouache-field-notes) | Illustration | Opaque gouache | Research stories, Education, Human collaboration | [Gouache Field Notes template](https://zyncli.com/templates/gouache-field-notes) |
+| [Felted Logic](skills/felted-logic) | 3D | Felt & embroidery | Networks, Decision systems, Community and care | [Felted Logic template](https://zyncli.com/templates/felted-logic) |
+| [Oil Allegory](skills/oil-allegory) | Illustration | Oil painting | Long-form essays, Leadership, Ethics and society | [Oil Allegory template](https://zyncli.com/templates/oil-allegory) |
+| [Cyanotype Evidence](skills/cyanotype-evidence) | Collage | Cyanotype collage | Research essays, Architecture, Science and memory | [Cyanotype Evidence template](https://zyncli.com/templates/cyanotype-evidence) |
+| [Precision Circuit](skills/precision-circuit) | Explainer | Technical schematic | Technical explainers, Infrastructure, AI workflows | [Precision Circuit template](https://zyncli.com/templates/precision-circuit) |
+| [Hyperreal Alignment](skills/hyperreal-alignment) | Photography | Conceptual photography | Business concepts, Balance and tradeoffs, Product strategy | [Hyperreal Alignment template](https://zyncli.com/templates/hyperreal-alignment) |
+| [Ink Passage](skills/ink-passage) | Illustration | Ink wash | Reflective essays, Change and uncertainty, Culture | [Ink Passage template](https://zyncli.com/templates/ink-passage) |
+| [Paper Architecture](skills/paper-architecture) | Collage | Paper relief | Process stories, Design thinking, Organizational change | [Paper Architecture template](https://zyncli.com/templates/paper-architecture) |
+| [Riso Argument](skills/riso-argument) | Editorial | Risograph print | Opinion columns, Debates, Cultural commentary | [Riso Argument template](https://zyncli.com/templates/riso-argument) |
+| [Carved Thesis](skills/carved-thesis) | Illustration | Linocut | Labor and society, Collective action, Historical essays | [Carved Thesis template](https://zyncli.com/templates/carved-thesis) |
+| [Mosaic Assembly](skills/mosaic-assembly) | 3D | Ceramic mosaic | Community, Organizational culture, Cumulative progress | [Mosaic Assembly template](https://zyncli.com/templates/mosaic-assembly) |
+| [Pastel Threshold](skills/pastel-threshold) | Illustration | Chalk pastel | Wellbeing, Personal change, Creative practice | [Pastel Threshold template](https://zyncli.com/templates/pastel-threshold) |
+| [Glazed Mechanism](skills/glazed-mechanism) | 3D | Glazed ceramic 3D | Product education, Operations, Workflow explainers | [Glazed Mechanism template](https://zyncli.com/templates/glazed-mechanism) |
+| [Process Cutaway](skills/process-cutaway) | Explainer | Scientific cutaway | How systems work, Operations, Technical processes | [Process Cutaway template](https://zyncli.com/templates/process-cutaway) |
+| [Luminous Assembly](skills/luminous-assembly) | 3D | Stained glass | Synthesis, Culture and identity, Transformation | [Luminous Assembly template](https://zyncli.com/templates/luminous-assembly) |
+| [Charcoal Reportage](skills/charcoal-reportage) | Illustration | Charcoal & graphite | Public systems, Operations, Investigative reporting | [Charcoal Reportage template](https://zyncli.com/templates/charcoal-reportage) |
+| [Axonometric Commons](skills/axonometric-commons) | Workplace | Axonometric illustration | Workplace systems, Service design, Community infrastructure | [Axonometric Commons template](https://zyncli.com/templates/axonometric-commons) |
+| [Shadow Stage](skills/shadow-stage) | Conceptual | Paper shadow theatre | Power and systems, Narrative analysis, Hidden dependencies | [Shadow Stage template](https://zyncli.com/templates/shadow-stage) |
+| [Marbled Forces](skills/marbled-forces) | Abstract | Suminagashi marbling | Complexity, Market forces, Change and adaptation | [Marbled Forces template](https://zyncli.com/templates/marbled-forces) |

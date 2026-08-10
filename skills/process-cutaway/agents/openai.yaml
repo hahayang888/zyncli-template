@@ -1,0 +1,4 @@
+interface:
+  display_name: "Process Cutaway"
+  short_description: "Generate Process Cutaway article visuals"
+  default_prompt: "Use $process-cutaway to plan and generate a coherent illustration set for this article."
