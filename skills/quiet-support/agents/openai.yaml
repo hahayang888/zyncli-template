@@ -1,0 +1,4 @@
+interface:
+  display_name: "Quiet Support"
+  short_description: "Generate Quiet Support article visuals"
+  default_prompt: "Use $quiet-support to plan and generate a coherent illustration set for this article."

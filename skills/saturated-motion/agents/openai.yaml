@@ -1,0 +1,4 @@
+interface:
+  display_name: "Saturated Motion"
+  short_description: "Generate Saturated Motion article visuals"
+  default_prompt: "Use $saturated-motion to plan and generate a coherent illustration set for this article."

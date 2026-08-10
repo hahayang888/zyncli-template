@@ -7,7 +7,7 @@ Open-source visual Skills for turning articles, blogs, newsletters, essays, and 
 
 [Zyncli](https://zyncli.com) is a visual Skill platform for article illustration. Instead of asking an image model to make a series of disconnected pictures, each Zyncli template gives an AI agent a reusable visual system: how to understand the writing, which ideas deserve an image, how to compose each scene, and how to keep the complete set visually consistent.
 
-This repository contains 45 open-source templates from the [Zyncli template library](https://zyncli.com/templates). Every template is packaged as an independently installable Agent Skill.
+This repository contains 55 open-source templates from the [Zyncli template library](https://zyncli.com/templates). Every template is packaged as an independently installable Agent Skill.
 
 ## What a visual Skill does
 
@@ -52,7 +52,21 @@ The latest release adds 20 original directions designed to be visibly different 
 | [![Process Cutaway example](skills/process-cutaway/assets/examples/01.webp)](skills/process-cutaway) | [![Shadow Stage example](skills/shadow-stage/assets/examples/01.webp)](skills/shadow-stage) |
 | Sectioned machines that expose hidden workflows, dependencies, and failure points. | Cinematic paper theatre for moral tension, consequences, and narrative essays. |
 
-Browse all 45 directions in the [complete Skill catalog](CATALOG.md).
+## New human and systems collection
+
+The newest 10 Skills add conceptual photography, symbolic linework, warm distributed-work scenes, community illustration, care-focused storytelling, architectural 3D, spatial information design, deadpan ink, kinetic saturated illustration, and tactile character 3D. They were built as independent Zyncli systems rather than replicas of a named artist or publication.
+
+| Inner Terrain | Monumental Metaphor |
+| --- | --- |
+| [![Inner Terrain example](skills/inner-terrain/assets/examples/01.webp)](skills/inner-terrain) | [![Monumental Metaphor example](skills/monumental-metaphor/assets/examples/01.webp)](skills/monumental-metaphor) |
+| Double-exposure photography for identity, wellbeing, climate, and memory. | Architectural 3D for operations, enterprise change, and large systems. |
+
+| Raw Logic | Candy Crowd 3D |
+| --- | --- |
+| [![Raw Logic example](skills/raw-logic/assets/examples/01.webp)](skills/raw-logic) | [![Candy Crowd 3D example](skills/candy-crowd-3d/assets/examples/01.webp)](skills/candy-crowd-3d) |
+| Deadpan ink metaphors for opinion, bureaucracy, and workplace friction. | Grainy character 3D for learning, community, and playful teamwork. |
+
+Browse all 55 directions in the [complete Skill catalog](CATALOG.md).
 
 ## What is inside each Skill
 

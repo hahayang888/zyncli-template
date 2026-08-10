@@ -1,0 +1,4 @@
+interface:
+  display_name: "Inner Terrain"
+  short_description: "Generate Inner Terrain article visuals"
+  default_prompt: "Use $inner-terrain to plan and generate a coherent illustration set for this article."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Social Pulse"
+  short_description: "Generate Social Pulse article visuals"
+  default_prompt: "Use $social-pulse to plan and generate a coherent illustration set for this article."

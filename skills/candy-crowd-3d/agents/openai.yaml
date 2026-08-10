@@ -1,0 +1,4 @@
+interface:
+  display_name: "Candy Crowd 3D"
+  short_description: "Generate Candy Crowd 3D article visuals"
+  default_prompt: "Use $candy-crowd-3d to plan and generate a coherent illustration set for this article."

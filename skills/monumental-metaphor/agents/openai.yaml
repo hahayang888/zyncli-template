@@ -1,0 +1,4 @@
+interface:
+  display_name: "Monumental Metaphor"
+  short_description: "Generate Monumental Metaphor article visuals"
+  default_prompt: "Use $monumental-metaphor to plan and generate a coherent illustration set for this article."

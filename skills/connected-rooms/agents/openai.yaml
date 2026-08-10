@@ -1,0 +1,4 @@
+interface:
+  display_name: "Connected Rooms"
+  short_description: "Generate Connected Rooms article visuals"
+  default_prompt: "Use $connected-rooms to plan and generate a coherent illustration set for this article."

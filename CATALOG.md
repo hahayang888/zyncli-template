@@ -1,6 +1,6 @@
 # Skill catalog
 
-The library currently contains 45 installable visual Skills. Every entry links to its complete workflow, style guide, visual calibration examples, and matching Zyncli template page.
+The library currently contains 55 installable visual Skills. Every entry links to its complete workflow, style guide, visual calibration examples, and matching Zyncli template page.
 
 | Skill | Category | Medium | Best for | Zyncli template |
 | --- | --- | --- | --- | --- |
@@ -49,3 +49,13 @@ The library currently contains 45 installable visual Skills. Every entry links t
 | [Axonometric Commons](skills/axonometric-commons) | Workplace | Axonometric illustration | Workplace systems, Service design, Community infrastructure | [Axonometric Commons template](https://zyncli.com/templates/axonometric-commons) |
 | [Shadow Stage](skills/shadow-stage) | Conceptual | Paper shadow theatre | Power and systems, Narrative analysis, Hidden dependencies | [Shadow Stage template](https://zyncli.com/templates/shadow-stage) |
 | [Marbled Forces](skills/marbled-forces) | Abstract | Suminagashi marbling | Complexity, Market forces, Change and adaptation | [Marbled Forces template](https://zyncli.com/templates/marbled-forces) |
+| [Inner Terrain](skills/inner-terrain) | Photography | Conceptual double exposure | Wellbeing essays, Climate and place, Identity and memory | [Inner Terrain template](https://zyncli.com/templates/inner-terrain) |
+| [Constellation Hands](skills/constellation-hands) | Illustration | Line and particle illustration | Governance, Trust and stewardship, Collective intelligence | [Constellation Hands template](https://zyncli.com/templates/constellation-hands) |
+| [Connected Rooms](skills/connected-rooms) | Workplace | Narrative vector illustration | Remote work, Team culture, Community platforms | [Connected Rooms template](https://zyncli.com/templates/connected-rooms) |
+| [Social Pulse](skills/social-pulse) | Editorial | Bold vector illustration | Creator economy, Online communities, Audience engagement | [Social Pulse template](https://zyncli.com/templates/social-pulse) |
+| [Quiet Support](skills/quiet-support) | Illustration | Soft geometric illustration | Mental health, Relationships, Care and belonging | [Quiet Support template](https://zyncli.com/templates/quiet-support) |
+| [Monumental Metaphor](skills/monumental-metaphor) | 3D | Architectural 3D illustration | Operations, Enterprise transformation, Product systems | [Monumental Metaphor template](https://zyncli.com/templates/monumental-metaphor) |
+| [Spatial Systems](skills/spatial-systems) | Infographic | Spatial information illustration | Mobility, Public services, Logistics and infrastructure | [Spatial Systems template](https://zyncli.com/templates/spatial-systems) |
+| [Raw Logic](skills/raw-logic) | Editorial | Raw ink and flat color | Opinion essays, Workplace friction, Organizational satire | [Raw Logic template](https://zyncli.com/templates/raw-logic) |
+| [Saturated Motion](skills/saturated-motion) | Illustration | Saturated vector illustration | Creative work, Transformation, Momentum and growth | [Saturated Motion template](https://zyncli.com/templates/saturated-motion) |
+| [Candy Crowd 3D](skills/candy-crowd-3d) | 3D | Grainy character 3D | Community stories, Learning, Playful teamwork | [Candy Crowd 3D template](https://zyncli.com/templates/candy-crowd-3d) |

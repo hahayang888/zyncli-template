@@ -1,0 +1,4 @@
+interface:
+  display_name: "Spatial Systems"
+  short_description: "Generate Spatial Systems article visuals"
+  default_prompt: "Use $spatial-systems to plan and generate a coherent illustration set for this article."

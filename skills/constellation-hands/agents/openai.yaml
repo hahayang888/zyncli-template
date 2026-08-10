@@ -1,0 +1,4 @@
+interface:
+  display_name: "Constellation Hands"
+  short_description: "Generate Constellation Hands article visuals"
+  default_prompt: "Use $constellation-hands to plan and generate a coherent illustration set for this article."

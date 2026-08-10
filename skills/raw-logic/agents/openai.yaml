@@ -1,0 +1,4 @@
+interface:
+  display_name: "Raw Logic"
+  short_description: "Generate Raw Logic article visuals"
+  default_prompt: "Use $raw-logic to plan and generate a coherent illustration set for this article."
