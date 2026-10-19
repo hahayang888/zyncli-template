@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pop-up Paradox"
+  short_description: "Generate Pop-up Paradox article visuals"
+  default_prompt: "Use $popup-paradox to plan and generate a coherent illustration set for this article."

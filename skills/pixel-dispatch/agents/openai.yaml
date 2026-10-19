@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pixel Dispatch"
+  short_description: "Generate Pixel Dispatch article visuals"
+  default_prompt: "Use $pixel-dispatch to plan and generate a coherent illustration set for this article."

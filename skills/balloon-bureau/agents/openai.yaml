@@ -1,0 +1,4 @@
+interface:
+  display_name: "Balloon Bureau"
+  short_description: "Generate Balloon Bureau article visuals"
+  default_prompt: "Use $balloon-bureau to plan and generate a coherent illustration set for this article."

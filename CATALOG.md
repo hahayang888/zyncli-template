@@ -1,6 +1,6 @@
 # Skill catalog
 
-The library currently contains 55 installable visual Skills. Every entry links to its complete workflow, style guide, visual calibration examples, and matching Zyncli template page.
+The library currently contains 65 installable visual Skills. Every entry links to its complete workflow, style guide, visual calibration examples, and matching Zyncli template page.
 
 | Skill | Category | Medium | Best for | Zyncli template |
 | --- | --- | --- | --- | --- |
@@ -59,3 +59,13 @@ The library currently contains 55 installable visual Skills. Every entry links t
 | [Raw Logic](skills/raw-logic) | Editorial | Raw ink and flat color | Opinion essays, Workplace friction, Organizational satire | [Raw Logic template](https://zyncli.com/templates/raw-logic) |
 | [Saturated Motion](skills/saturated-motion) | Illustration | Saturated vector illustration | Creative work, Transformation, Momentum and growth | [Saturated Motion template](https://zyncli.com/templates/saturated-motion) |
 | [Candy Crowd 3D](skills/candy-crowd-3d) | 3D | Grainy character 3D | Community stories, Learning, Playful teamwork | [Candy Crowd 3D template](https://zyncli.com/templates/candy-crowd-3d) |
+| [Balloon Bureau](skills/balloon-bureau) | 3D | Inflatable sculpture | Workplace pressure, Capacity and limits, Team agreements | [Balloon Bureau template](https://zyncli.com/templates/balloon-bureau) |
+| [Pixel Dispatch](skills/pixel-dispatch) | Illustration | Pixel art | Decision-making, Product experiments, Learning and progress | [Pixel Dispatch template](https://zyncli.com/templates/pixel-dispatch) |
+| [Rubber Hose Workshop](skills/rubber-hose-workshop) | Character | Vintage cartoon ink | Bureaucracy, Workplace humor, Opinion newsletters | [Rubber Hose Workshop template](https://zyncli.com/templates/rubber-hose-workshop) |
+| [Scratchboard Sparks](skills/scratchboard-sparks) | Illustration | Scratchboard engraving | Risk and uncertainty, Investigations, Hidden dependencies | [Scratchboard Sparks template](https://zyncli.com/templates/scratchboard-sparks) |
+| [Matchbox Worlds](skills/matchbox-worlds) | 3D | Miniature diorama | Operations, Team handoffs, Organizational change | [Matchbox Worlds template](https://zyncli.com/templates/matchbox-worlds) |
+| [Pop-up Paradox](skills/popup-paradox) | Collage | Pop-up paper engineering | Learning, Hidden assumptions, Change and discovery | [Pop-up Paradox template](https://zyncli.com/templates/popup-paradox) |
+| [Tape Collisions](skills/tape-collisions) | Collage | Translucent tape collage | Collaboration, Compromise, Patchwork systems | [Tape Collisions template](https://zyncli.com/templates/tape-collisions) |
+| [Comic Pressure](skills/comic-pressure) | Editorial | Wordless halftone comic | Opinion pieces, Everyday tradeoffs, Workplace consequences | [Comic Pressure template](https://zyncli.com/templates/comic-pressure) |
+| [Sandtable Stories](skills/sandtable-stories) | Conceptual | Sculpted sand landscape | Change over time, Flow and friction, Strategic obstacles | [Sandtable Stories template](https://zyncli.com/templates/sandtable-stories) |
+| [Botanical Contraptions](skills/botanical-contraptions) | Conceptual | Botanical engraving | Growth and constraints, Interdependence, Care and stewardship | [Botanical Contraptions template](https://zyncli.com/templates/botanical-contraptions) |

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Comic Pressure"
+  short_description: "Generate Comic Pressure article visuals"
+  default_prompt: "Use $comic-pressure to plan and generate a coherent illustration set for this article."

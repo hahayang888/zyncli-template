@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sandtable Stories"
+  short_description: "Generate Sandtable Stories article visuals"
+  default_prompt: "Use $sandtable-stories to plan and generate a coherent illustration set for this article."

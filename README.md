@@ -7,7 +7,7 @@ Open-source visual Skills for turning articles, blogs, newsletters, essays, and 
 
 [Zyncli](https://zyncli.com) is a visual Skill platform for article illustration. Instead of asking an image model to make a series of disconnected pictures, each Zyncli template gives an AI agent a reusable visual system: how to understand the writing, which ideas deserve an image, how to compose each scene, and how to keep the complete set visually consistent.
 
-This repository contains 55 open-source templates from the [Zyncli template library](https://zyncli.com/templates). Every template is packaged as an independently installable Agent Skill.
+This repository contains 65 open-source templates from the [Zyncli template library](https://zyncli.com/templates). Every template is packaged as an independently installable Agent Skill.
 
 ## What a visual Skill does
 
@@ -38,9 +38,37 @@ The current library includes editorial illustration, documentary photography, 3D
 
 The images above are representative outputs generated from the corresponding Skill directions. Each Skill includes three example images for visual calibration.
 
-## New original material collection
+## October 2026: playful material collection
 
-The latest release adds 20 original directions designed to be visibly different at the level that matters: material, metaphor vocabulary, spatial grammar, and editorial purpose. The collection spans engineered chrome, gouache reportage, felt craft, painterly allegory, cyanotype evidence, precision circuits, physical realism, ink wash, paper architecture, risograph, relief print, mosaic, pastel, ceramic mechanisms, cutaway systems, stained glass, charcoal reportage, axonometric workplaces, shadow theatre, and marbled abstraction.
+Ten new Skills add inflatable sculpture, pixel art, elastic cartoon ink, scratchboard, miniature dioramas, pop-up paper engineering, translucent tape, wordless comics, sand landscapes, and imaginary botanical mechanisms.
+
+![Ten playful illustration directions](assets/playful-collection-2026-10.webp)
+
+Each direction includes three original, individually generated examples and its own material rules, metaphor vocabulary, constraints, and review checklist. Use the examples to calibrate the look; build new scenes from your own article.
+
+| Skill | Medium | Best for |
+| --- | --- | --- |
+| [Balloon Bureau](skills/balloon-bureau) | Inflatable sculpture | Workplace pressure, Capacity and limits, Team agreements |
+| [Pixel Dispatch](skills/pixel-dispatch) | Pixel art | Decision-making, Product experiments, Learning and progress |
+| [Rubber Hose Workshop](skills/rubber-hose-workshop) | Vintage cartoon ink | Bureaucracy, Workplace humor, Opinion newsletters |
+| [Scratchboard Sparks](skills/scratchboard-sparks) | Scratchboard engraving | Risk and uncertainty, Investigations, Hidden dependencies |
+| [Matchbox Worlds](skills/matchbox-worlds) | Miniature diorama | Operations, Team handoffs, Organizational change |
+| [Pop-up Paradox](skills/popup-paradox) | Pop-up paper engineering | Learning, Hidden assumptions, Change and discovery |
+| [Tape Collisions](skills/tape-collisions) | Translucent tape collage | Collaboration, Compromise, Patchwork systems |
+| [Comic Pressure](skills/comic-pressure) | Wordless halftone comic | Opinion pieces, Everyday tradeoffs, Workplace consequences |
+| [Sandtable Stories](skills/sandtable-stories) | Sculpted sand landscape | Change over time, Flow and friction, Strategic obstacles |
+| [Botanical Contraptions](skills/botanical-contraptions) | Botanical engraving | Growth and constraints, Interdependence, Care and stewardship |
+
+Generate with one of the new directions after installing it:
+
+```text
+Use $balloon-bureau to plan three images for this article.
+Show the proposed scenes before generating.
+```
+
+## Original material collection
+
+The original material collection contains 20 original directions designed to be visibly different at the level that matters: material, metaphor vocabulary, spatial grammar, and editorial purpose. The collection spans engineered chrome, gouache reportage, felt craft, painterly allegory, cyanotype evidence, precision circuits, physical realism, ink wash, paper architecture, risograph, relief print, mosaic, pastel, ceramic mechanisms, cutaway systems, stained glass, charcoal reportage, axonometric workplaces, shadow theatre, and marbled abstraction.
 
 | Chrome Currents | Gouache Field Notes |
 | --- | --- |
@@ -52,9 +80,9 @@ The latest release adds 20 original directions designed to be visibly different 
 | [![Process Cutaway example](skills/process-cutaway/assets/examples/01.webp)](skills/process-cutaway) | [![Shadow Stage example](skills/shadow-stage/assets/examples/01.webp)](skills/shadow-stage) |
 | Sectioned machines that expose hidden workflows, dependencies, and failure points. | Cinematic paper theatre for moral tension, consequences, and narrative essays. |
 
-## New human and systems collection
+## Human and systems collection
 
-The newest 10 Skills add conceptual photography, symbolic linework, warm distributed-work scenes, community illustration, care-focused storytelling, architectural 3D, spatial information design, deadpan ink, kinetic saturated illustration, and tactile character 3D. They were built as independent Zyncli systems rather than replicas of a named artist or publication.
+The human and systems collection adds 10 Skills covering conceptual photography, symbolic linework, warm distributed-work scenes, community illustration, care-focused storytelling, architectural 3D, spatial information design, deadpan ink, kinetic saturated illustration, and tactile character 3D. They were built as independent Zyncli systems rather than replicas of a named artist or publication.
 
 | Inner Terrain | Monumental Metaphor |
 | --- | --- |
@@ -66,7 +94,7 @@ The newest 10 Skills add conceptual photography, symbolic linework, warm distrib
 | [![Raw Logic example](skills/raw-logic/assets/examples/01.webp)](skills/raw-logic) | [![Candy Crowd 3D example](skills/candy-crowd-3d/assets/examples/01.webp)](skills/candy-crowd-3d) |
 | Deadpan ink metaphors for opinion, bureaucracy, and workplace friction. | Grainy character 3D for learning, community, and playful teamwork. |
 
-Browse all 55 directions in the [complete Skill catalog](CATALOG.md).
+Browse all 65 directions in the [complete Skill catalog](CATALOG.md).
 
 ## What is inside each Skill
 

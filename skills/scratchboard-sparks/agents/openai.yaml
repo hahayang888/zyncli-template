@@ -1,0 +1,4 @@
+interface:
+  display_name: "Scratchboard Sparks"
+  short_description: "Generate Scratchboard Sparks article visuals"
+  default_prompt: "Use $scratchboard-sparks to plan and generate a coherent illustration set for this article."

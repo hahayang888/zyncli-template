@@ -1,0 +1,4 @@
+interface:
+  display_name: "Matchbox Worlds"
+  short_description: "Generate Matchbox Worlds article visuals"
+  default_prompt: "Use $matchbox-worlds to plan and generate a coherent illustration set for this article."

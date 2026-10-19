@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tape Collisions"
+  short_description: "Generate Tape Collisions article visuals"
+  default_prompt: "Use $tape-collisions to plan and generate a coherent illustration set for this article."

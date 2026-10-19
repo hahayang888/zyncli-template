@@ -1,0 +1,4 @@
+interface:
+  display_name: "Rubber Hose Workshop"
+  short_description: "Generate Rubber Hose Workshop article visuals"
+  default_prompt: "Use $rubber-hose-workshop to plan and generate a coherent illustration set for this article."

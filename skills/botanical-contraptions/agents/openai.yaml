@@ -1,0 +1,4 @@
+interface:
+  display_name: "Botanical Contraptions"
+  short_description: "Generate Botanical Contraptions article visuals"
+  default_prompt: "Use $botanical-contraptions to plan and generate a coherent illustration set for this article."
